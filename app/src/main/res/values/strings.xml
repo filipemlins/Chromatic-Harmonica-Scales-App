@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chromatic Harmonica</string>
+    <string name="c">C</string>
+
+    <string name="notes">notes</string>
+    <string name="harmonica_key">Harmonica\u0020Key</string>
+    <string name="key_selected">Scale\u0020Key</string>
+    <string name="scale_selected">\u0020Scale</string>
+    <string name="admob_app_id"> ca-app-pub-6128271954665234~3476824821</string>
+    <string name="admob_banner_id"> ca-app-pub-6128271954665234/3285253131</string>
+
+
+</resources>

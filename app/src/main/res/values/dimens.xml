@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_reallysmall">1dp</dimen>
+    <dimen name="margin_avg">16dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="margin_medium">32dp</dimen>
+    <dimen name="font_size">12sp</dimen>
+    <dimen name="font_small_size">8sp</dimen>
+    <dimen name="font_small2_size">10sp</dimen>
+
+    <dimen name="padding_large">22dp</dimen>
+    <dimen name="padding_large2">50dp</dimen>
+    <dimen name="margin_large">50dp</dimen>
+
+    <dimen name="showcase_radius">94dp</dimen>
+    <dimen name="showcase_radius_inner">96dp</dimen>
+    <dimen name="showcase_radius_outer">128dp</dimen>
+    <dimen name="showcase_radius_material">48dip</dimen>
+
+</resources>
